@@ -16,10 +16,18 @@ The current set of tools include:
 
 http://vice-emu.sourceforge.net/
 
+```
+scoop install vice
+```
+
 Commodore 8-bit machine emulators. Includes ```xscpu64``` which is a Commodore 64 with the SuperCPU expansion which contains a 65816 which takes over control of the machine.
 
 ### ACME
 
 http://acme-crossass.sourceforge.net/
+
+```
+scoop install acme
+```
 
 ACME is a cross assembler which has support for the 65816.
