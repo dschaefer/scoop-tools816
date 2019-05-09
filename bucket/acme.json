@@ -5,6 +5,6 @@
     "extract_dir": "acme0.96.4win/acme",
     "bin": "acme.exe",
     "env_set": {
-        "ACME_DIR": "$dir"
+        "ACME": "$dir\\ACME_LIB"
     }
 }
