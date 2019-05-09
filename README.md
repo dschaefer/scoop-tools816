@@ -20,6 +20,6 @@ Commodore 8-bit machine emulators. Includes ```xscpu64``` which is a Commodore 6
 
 ### ACME
 
-https://acme-crossass.sourceforge.net/
+http://acme-crossass.sourceforge.net/
 
 ACME is a cross assembler which has support for the 65816.
