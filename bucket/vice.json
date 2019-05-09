@@ -1,6 +1,6 @@
 {
     "version": "3.3",
-    "url": "https://sourceforge.net/projects/vice-emu/files/experimental%20binaries/GTK3VICE-3.3-win32.7z/download",
+    "url": "https://downloads.sourceforge.net/projects/vice-emu/experimental%20binaries/GTK3VICE-3.3-win32.7z",
     "extract_dir": "GTK3VICE-3.3-win32-r35872",
     "bin": [
         "xscpu64.exe"
