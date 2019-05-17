@@ -14,7 +14,7 @@ The current set of tools include:
 
 ### 64tass
 
-http://http://tass64.sourceforge.net/
+http://tass64.sourceforge.net/
 
 ```
 scoop install 64tass
