@@ -12,6 +12,16 @@ scoop bucket add tools816 https://github.com/dschaefer/scoop-tools816
 
 The current set of tools include:
 
+### 64tass
+
+http://http://tass64.sourceforge.net/
+
+```
+scoop install 64tass
+```
+
+An advanced cross assembler with support for the 65816.
+
 ### ACME
 
 http://acme-crossass.sourceforge.net/
@@ -30,4 +40,4 @@ http://vice-emu.sourceforge.net/
 scoop install vice
 ```
 
-Includes ```xscpu64``` which is a Commodore 64 with the SuperCPU expansion which contains a 65816 which takes over control of the machine. It at least gets us started.
+Emulator that includes ```xscpu64``` which is a Commodore 64 with the SuperCPU expansion which contains a 65816 which takes over control of the machine. It at least gets us started.

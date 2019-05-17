@@ -1,0 +1,6 @@
+{
+    "version": "1.54.1900",
+    "url": "https://downloads.sourceforge.net/project/tass64/binaries/64tass-1.54.1900.zip",
+    "extract_dir": "64tass-1.54.1900",
+    "bin": "64tass.exe"
+}
